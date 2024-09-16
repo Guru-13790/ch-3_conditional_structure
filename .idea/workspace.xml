@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385b9fb2-30e9-40b4-8b74-78e28caa1ed7" name="Changes" comment="ch-3">
+    <list default="true" id="385b9fb2-30e9-40b4-8b74-78e28caa1ed7" name="Changes" comment="ch-3_submission">
+      <change afterPath="$PROJECT_DIR$/ch-3_cruise_ship.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +13,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Guru-13790"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Guru-13790/ch-3_conditional_structure",
+    "accountId": "71906d93-0694-4c58-8c1d-57276032c50c"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -27,23 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.3. Conditional Structure. Q-1 Zander.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3. Conditional Structure. Q-1 Zander.executor": "Run",
+    "Python.ch-3_cruise_ship.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +87,7 @@
       <workItem from="1726427904387" duration="93000" />
       <workItem from="1726428040258" duration="94000" />
       <workItem from="1726456096840" duration="182000" />
-      <workItem from="1726456302517" duration="8000" />
+      <workItem from="1726456302517" duration="1224000" />
     </task>
     <task id="LOCAL−00001" summary="ch-3">
       <option name="closed" value="true" />
@@ -96,7 +117,28 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1726428133521</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="ch-3_submission">
+      <option name="closed" value="true" />
+      <created>1726456456784</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1726456456785</updated>
+    </task>
+    <task id="LOCAL−00006" summary="ch-3_submission">
+      <option name="closed" value="true" />
+      <created>1726456554975</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1726456554975</updated>
+    </task>
+    <task id="LOCAL−00007" summary="ch-3_submission">
+      <option name="closed" value="true" />
+      <created>1726456578944</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1726456578944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +146,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch-3" />
+    <MESSAGE value="ch-3_submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch-3_submission" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/3__Conditional_Structure$3__Conditional_Structure__Q_1_Zander.coverage" NAME="3. Conditional Structure. Q-1 Zander Coverage Results" MODIFIED="1726456131706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3__Conditional_Structure$ch_3_cruise_ship.coverage" NAME="ch-3_cruise_ship Coverage Results" MODIFIED="1726457796044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3__Conditional_Structure$3__Conditional_Structure__Q_1_Zander.coverage" NAME="3. Conditional Structure. Q-1 Zander Coverage Results" MODIFIED="1726456311792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
